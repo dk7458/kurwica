@@ -1,0 +1,19 @@
+
+
+# Basic dependencies
+argparse
+configparser
+
+# Logging
+logging
+
+# System utilities
+subprocess32  # For better subprocess handling on Python 3.5+
+psutil
+
+# Date/time handling
+pytz
+
+# For future UI development
+PyQt5  # Or any other GUI framework we might use in the future
+
